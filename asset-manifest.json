@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/firebase_auth_login/static/js/main.c4fb81cc.chunk.js",
+    "main.js.map": "/firebase_auth_login/static/js/main.c4fb81cc.chunk.js.map",
+    "runtime-main.js": "/firebase_auth_login/static/js/runtime-main.77f1b555.js",
+    "runtime-main.js.map": "/firebase_auth_login/static/js/runtime-main.77f1b555.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/firebase_auth_login/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a550b9f6.chunk.js": "/firebase_auth_login/static/js/2.a550b9f6.chunk.js",
+    "static/js/2.a550b9f6.chunk.js.map": "/firebase_auth_login/static/js/2.a550b9f6.chunk.js.map",
+    "index.html": "/firebase_auth_login/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/firebase_auth_login/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.a550b9f6.chunk.js.LICENSE.txt": "/firebase_auth_login/static/js/2.a550b9f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f1b555.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a550b9f6.chunk.js",
+    "static/js/main.c4fb81cc.chunk.js"
+  ]
+}
